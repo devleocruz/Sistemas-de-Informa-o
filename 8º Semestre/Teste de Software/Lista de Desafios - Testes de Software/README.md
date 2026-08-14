@@ -109,26 +109,3 @@ pytest Desafio2/
 ```
 
 E assim por diante.
-
-## Objetivo
-
-Os desafios abordam diferentes conceitos de testes automatizados, incluindo:
-
-* Testes unitários com `pytest`;
-* Parametrização de testes;
-* Testes de casos válidos e inválidos;
-* Validação de CPF;
-* Isolamento de dependências;
-* Uso de `Mock`;
-* Injeção de dependência;
-* Fixtures para preparação comum dos testes.
-
-## Comando principal
-
-Depois de criar e ativar a `venv` e instalar o `pytest`, todos os testes podem ser executados com:
-
-```bash
-pytest
-```
-
-**Esse é o comando único utilizado para executar a suíte completa de testes.**
